@@ -18,7 +18,7 @@
     "yjs": "^13.3.2"
   },
   "devDependencies": {
-    "acorn": "^6.2.0",
+    "acorn": "^8.11.3",
     "acorn-walk": "^6.2.0",
     "browserify": "^16.2.0",
     "codemirror": "^5.65.7",
