@@ -25,7 +25,7 @@
     "dotenv": "^16.3.1",
     "envify": "^4.1.0",
     "esmify": "^2.1.1",
-    "gibber.audio.lib": "^1.0.0",
+    "gibber.audio.lib": "^2.1.4",
     "gibber.core.lib": "latest",
     "gibber.graphics.lib": "^1.0.1",
     "gulp": "^4.0.2",
